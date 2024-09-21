@@ -11,3 +11,5 @@ This will return and html report of all the testcases which has run
 
 **Total 32 testcases in which 18 passed and 14 failed**
 
+P.S - Didnt got the chance to give detailed Testcases documentation an bug reporting as currently working on my company critical product feature which need to tested thouroghyly as demo is on Sunday
+
