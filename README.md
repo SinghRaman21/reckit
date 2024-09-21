@@ -8,3 +8,6 @@ To run the testsuite
 4. To generate report run this in terminal "npx playwright show-report"
 
 This will return and html report of all the testcases which has run
+
+**Total 32 testcases in which 18 passed and 14 failed**
+
